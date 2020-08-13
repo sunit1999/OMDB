@@ -1,0 +1,23 @@
+.container .card-title{
+
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.container .card{
+
+    padding: 0%;
+    max-height: fit-content;
+    background-color: aliceblue;
+}
+
+.text-muted {
+
+    font-family: monospace;
+    font-weight: normal;
+    font-size: 15px;
+}
